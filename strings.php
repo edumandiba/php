@@ -2,7 +2,7 @@
 // Entendendo aspas duplas e simples
 
 $nome = "Eduardo";
-$sobrenome = 'Gomes';
+$sobrenome = 'Silva Gomes';
 
 echo "<hr>";
 echo " Estou colocando a variável definida com aspas duplas dentro de aspas duplas no echo, vide abaixo o que acontece <br>";
